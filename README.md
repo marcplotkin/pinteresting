@@ -2,4 +2,4 @@
 
 This is the pinteresting sample application for [*One Month Rails](http://onemonthrails.com)
 
-by [Marc Plotkin!](http://marcplotkin.com)
+by [Marc Plotkin](http://marcplotkin.com)
